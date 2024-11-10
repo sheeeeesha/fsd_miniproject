@@ -1,0 +1,8 @@
+/* Spinner/Loader styles */
+.loader {
+    border-top-color: #3498db; /* Customize loader color */
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+  }
+  
